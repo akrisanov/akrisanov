@@ -1,3 +1,3 @@
 📝 [Occasional Thoughts On Software Engineering](https://akrisanov.github.io/)
 
-💼 [LinkedIn Profile / CV](linkedin.com/in/akrisanov/)
+💼 [LinkedIn Profile / CV](https://linkedin.com/in/akrisanov/)
