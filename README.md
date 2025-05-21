@@ -7,7 +7,7 @@
 
 ### 🔥 Highlighted Projects
 
-Stay tuned — my open-source developer tools are coming soon!
+Stay tuned!
 
 ### 🛠️ Experienced with
 
