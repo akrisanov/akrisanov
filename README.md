@@ -5,8 +5,6 @@
 - 🔧 Working on open-source projects for developers and software engineering teams
 - 🌍 Passionate about building developer-first tools and infrastructure with a focus on privacy, reliability, and impact
 
-I'm currently preparing a U.S. O-1 visa case as a recognized engineer with extraordinary ability. My goal is to contribute to global developer communities by building high-quality open-source tools.
-
 ### 🔥 Highlighted Projects
 
 Stay tuned — my open-source developer tools are coming soon!
