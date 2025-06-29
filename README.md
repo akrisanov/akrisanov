@@ -1,23 +1,17 @@
-### 👋 Hi, I'm Andrey Krisanov
+### 👋 Hi, I'm Andrey
 
-- 🧠 CTO at [Planfact.io](https://planfact.io) — leading a 25-person engineering team building a B2B SaaS with $3M ARR
-- 💼 15+ years in software engineering, 7+ years in leadership roles
-- 🔧 Working on open-source projects for developers and software engineering teams
-- 🌍 Passionate about building developer-first tools and infrastructure with a focus on privacy, reliability, and impact
+CTO at [planfact.io](https://planfact.io), leading a 25-person engineering team building a profitable B2B SaaS with over $3M ARR. I bring 15+ years of experience in software engineering and 7+ years in leadership — switching between hands-on IC work and technical management as needed. I care deeply about the intersection of engineering, product, and business.
 
-### 🔥 Highlighted Projects
+While still at Planfact, I'm preparing for my next chapter — ideally in _distributed systems_ or _platform engineering_ roles. I'm especially interested in joining a product-driven team abroad (Canada, US, or EU).
 
-Stay tuned!
+### 🧰 Tech Highlights
 
-### 🛠️ Experienced with
-
-- `Python` `Go` `C#` `TypeScript`
-- `FastAPI` `.NET 6+` `Ruby on Rails`
-- `PostgreSQL` `SQL Server` `Redis` `ClickHouse`
-- `Linux` `Docker` `Kubernetes` `Ansible` `Helm` `CI`/`CD` `Sentry` `Observability` `PaaS` `AWS` `Google Cloud` `Keycloak`
-- `DDD` `shift-left testing` `DevOps`
+- Languages: `Go`, `Python`, `C#`, `TypeScript`, `Ruby` (interested in `F#`, `OCaml`, `Clojure` for functional backend work)
+- Infra & DevOps: `Kubernetes`, `Docker`, `Helm`, `Ansible`, `Linux`, `AWS`, `GCP`
+- Messaging & DB: `Kafka`, `RabbitMQ`, `PostgreSQL`, `ClickHouse`, `SQL Server`, `Redis`
+- Other: `Keycloak`, `DDD`, `shift-left testing`, `observability`, `DevOps`
 
 ### 📫 Get in touch
 
-- 🤝 [LinkedIn](https://www.linkedin.com/in/akrisanov/)
-- 💬 [Telegram](https://t.me/akrisanov)
+- [LinkedIn](https://www.linkedin.com/in/akrisanov/)
+- [Telegram](https://t.me/akrisanov)
