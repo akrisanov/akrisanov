@@ -6,10 +6,12 @@ While still at Planfact, I'm preparing for my next chapter — ideally in _distr
 
 ### 🧰 Tech Highlights
 
-- Languages: `Go`, `Python`, `C#`, `TypeScript`, `Ruby` (interested in `F#`, `OCaml`, `Clojure` for functional backend work)
+- Languages: `Go`, `C#`
+- _Interested in `Swift` on the server or `OCaml`_
 - Infra & DevOps: `Kubernetes`, `Docker`, `Helm`, `Ansible`, `Linux`, `AWS`, `GCP`
 - Messaging & DB: `Kafka`, `RabbitMQ`, `PostgreSQL`, `ClickHouse`, `SQL Server`, `Redis`
 - Other: `Keycloak`, `DDD`, `shift-left testing`, `observability`, `DevOps`
+- Past Experience: `Python`, `TypeScript`, `Ruby`
 
 ### 📫 Get in touch
 
