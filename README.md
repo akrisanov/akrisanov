@@ -1,17 +1,8 @@
 ### 👋 Hi, I'm Andrey
 
-CTO at [planfact.io](https://planfact.io), leading a 25-person engineering team building a profitable B2B SaaS with over $3M ARR. I bring 15+ years of experience in software engineering and 7+ years in leadership — switching between hands-on IC work and technical management as needed. I care deeply about the intersection of engineering, product, and business.
+CTO at [planfact.io](https://planfact.io), leading a 25-person engineering team behind a profitable B2B SaaS with $3M+ ARR. I bring 15+ years of backend experience and have led engineering efforts across fintech, retail, and privacy-tech startups in Russia and Europe. My focus: scalable systems, developer velocity, and product-aligned architecture.
 
-While still at Planfact, I'm preparing for my next chapter — ideally in _distributed systems_ or _platform engineering_ roles.
-
-### 🧰 Tech Highlights
-
-- Languages: `Go`, `C#`
-- _Interested in `Swift` on the server or `OCaml`_
-- Infra & DevOps: `Kubernetes`, `Docker`, `Helm`, `Ansible`, `Linux`, `AWS`, `GCP`
-- Messaging & DB: `Kafka`, `RabbitMQ`, `PostgreSQL`, `ClickHouse`, `SQL Server`, `Redis`
-- Other: `Keycloak`, `DDD`, `shift-left testing`, `observability`, `DevOps`
-- Past Experience: `Python`, `TypeScript`, `Ruby`
+Currently preparing for my next chapter as [a hands-on inference systems](https://github.com/akrisanov/inference-engineering-journey) or platform engineer, with a focus on performance, scalability, and cloud-native infrastructure.
 
 ### 📫 Get in touch
 
