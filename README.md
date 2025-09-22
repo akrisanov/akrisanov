@@ -1,10 +1,19 @@
-### 👋 Hi, I'm Andrey
+### Hi, I'm Andrey
 
-CTO at [planfact.io](https://planfact.io), leading a 25-person engineering team behind a profitable B2B SaaS with $3M+ ARR. I bring 15+ years of backend experience and have led engineering efforts across fintech, retail, and privacy-tech startups in Russia and Europe. My focus: scalable systems, developer velocity, and product-aligned architecture.
+I'm a backend engineer and former engineering manager with 15+ years of experience. Currently CTO at [planfact.io](https://planfact.io) — a profitable B2B SaaS with $3M+ ARR where I lead a 25-person engineering team.
 
-I'm also building expertise in [inference systems](https://github.com/akrisanov/inference-engineering-journey) and platform engineering, with a strong interest in performance, scalability, and cloud-native infrastructure.
+My background spans fintech, retail, and privacy-tech startups in Russia and Europe, with a focus on **scalable systems, developer velocity, and cloud-native platforms**.
 
-### 📫 Get in touch
+### Current focus
 
-- [LinkedIn](https://www.linkedin.com/in/akrisanov/)
-- [Telegram](https://t.me/akrisanov)
+I am actively transitioning into **AI Infrastructure Engineering**, building expertise in
+
+- GPU Infrastructure
+- Model Serving & Inference
+- Platform Engineering
+
+### Get in touch
+
+- [LinkedIn](https://www.linkedin.com/in/akrisanov/)  
+- [Telegram](https://t.me/akrisanov)  
+- [Blog](https://akrisanov.com)
