@@ -4,14 +4,6 @@ I'm a backend engineer and former engineering manager with 15+ years of experien
 
 My background spans fintech, retail, and privacy-tech startups in Russia and Europe, with a focus on **scalable systems, developer velocity, and cloud-native platforms**.
 
-### Current focus
-
-I am actively transitioning into **AI Infrastructure Engineering**, building expertise in
-
-- GPU Infrastructure
-- Model Serving & Inference
-- Platform Engineering
-
 ### Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/akrisanov/)  
