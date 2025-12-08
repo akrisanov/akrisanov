@@ -6,11 +6,11 @@ After 15+ years in engineering, including several years as CTO of a profitable S
 
 I'm especially interested in the engineering side of applied AI:
 
-• designing RAG architectures and ingestion pipelines
-• building LLM-based services and multistep workflows
-• integrating vector databases and hybrid retrieval
-• establishing evaluation, monitoring, and safety mechanisms
-• connecting AI systems with existing backend platforms
+- designing RAG architectures and ingestion pipelines
+- building LLM-based services and multistep workflows
+- integrating vector databases and hybrid retrieval
+- establishing evaluation, monitoring, and safety mechanisms
+- connecting AI systems with existing backend platforms
 
 My goal is to bridge modern AI with solid engineering, delivering AI features that are not just impressive in demos, but robust, predictable, and valuable in real products.
 
