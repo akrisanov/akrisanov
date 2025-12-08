@@ -5,6 +5,7 @@ I'm a software engineer with a strong background in backend platforms, distribut
 After 15+ years in engineering, including several years as CTO of a profitable SaaS company, I'm now focused on building real-world, production-ready AI features and systems. My work centers around retrieval-augmented generation (RAG), LLM-driven product capabilities, and the backend components that make these systems reliable, observable, and scalable.
 
 I'm especially interested in the engineering side of applied AI:
+
 • designing RAG architectures and ingestion pipelines
 • building LLM-based services and multistep workflows
 • integrating vector databases and hybrid retrieval
