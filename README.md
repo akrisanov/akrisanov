@@ -1,8 +1,8 @@
-## Software Engineer — AI Infrastructure & Distributed Systems
+## Software Engineer, AI Infrastructure & Distributed Systems
 
 I build production AI platforms and backend infrastructure, with a focus on LLM serving, GPU workloads, Kubernetes, observability, reliability, and inference performance.
 
-I have 15+ years of experience building backend systems, leading engineering teams, and delivering production platforms.
+I have over a decade of experience building backend systems, leading engineering teams, and delivering production platforms.
 
 ## Current focus
 
