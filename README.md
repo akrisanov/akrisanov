@@ -1,9 +1,9 @@
-Andrey Krisanov is a Staff Software Engineer at Severstal, where he builds production LLM inference platforms and AI infrastructure on Kubernetes and NVIDIA GPUs.
+Andrey Krisanov is a Staff Software Engineer at Severstal, building AI infrastructure and ML systems.
 
-He leads the architecture and technical evolution of a shared model-serving platform for enterprise AI products and coding agents. His work covers vLLM-based model serving, inference routing, performance and reliability, observability, GPU capacity planning, controlled model rollouts and rollbacks, and multi-data-center resilience.
+He leads the architecture and hands-on development of DaVinci, a shared GenAI platform running production workloads across multiple data centers on Kubernetes and NVIDIA GPUs. His work covers platform architecture, GPU infrastructure and capacity planning, reliability, observability, and model lifecycle in production.
 
-His main engineering interests are inference control planes, serving performance, and distributed systems.
+A large part of his current work is LLM inference: model serving with vLLM, traffic routing and control-plane design, performance and benchmarking, model rollouts, and failure handling.
 
-Before specialising in AI infrastructure, Andrey built and scaled backend and platform systems across SaaS, fintech, data privacy, and high-traffic consumer products.
+Before working on AI infrastructure, Andrey spent many years building backend and platform systems across SaaS, fintech, payments, data privacy, and high-traffic consumer products.
 
-Check out his article on [Kubernetes Model Serving in 2026](https://akrisanov.com/kubernetes-model-serving-in-2026/) and [more engineering notes on his technical blog](https://akrisanov.com/).
+He writes about AI infrastructure, ML systems, and distributed systems at [akrisanov.com](https://akrisanov.com/).
