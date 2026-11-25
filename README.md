@@ -1,9 +1,22 @@
-Staff Software Engineer building AI infrastructure and distributed systems.
+Hi there 👋
 
-Most recently at Severstal, I worked on a production GenAI platform running on Kubernetes and NVIDIA GPUs across multiple data centers. My work covered LLM serving, routing, GPU placement, capacity planning, reliability, observability, model rollouts, and performance tuning.
+## These days
 
-I prefer roles where I can design systems, write code, investigate production issues, and own technical decisions end to end.
+I'm a Technical Engineering Manager at [Detmir Tech](https://dmtech.team/),
+where I lead a team building an enterprise AI platform that powers LLM-based products and
+supports other AI initiatives.
 
-Earlier in my career, I built backend and platform systems across SaaS, fintech, payments, data privacy, and high-traffic products.
+I'm interested in AI infrastructure, distributed systems, and building both reliable,
+high-performance systems and high-performing engineering teams.
 
-I write about AI infrastructure, ML systems, and distributed systems at [akrisanov.com](https://akrisanov.com/).
+I mostly code with agents these days, but I still value the craft of writing high-quality,
+maintainable code by hand and appreciate the art of software design.
+
+I use Python, Rust, and Shell at work. Outside of work, I like to tinker with OCaml, Elixir and C++.
+
+I occasionally share my thoughts on [my personal blog](https://akrisanov.com/). Have a look!
+
+## Past
+
+Before I switched to AI space, I built and scaled backends and platforms across SaaS, fintech,
+data privacy and some high-traffic consumer products.
